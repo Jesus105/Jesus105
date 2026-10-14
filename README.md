@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jesusmendez10"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" height="34"></a>
   &nbsp;
-  <a href="mailto:jmc.dev105@gmail.com"><img src="assets/email.svg" alt="Say hello by email" height="34"></a>
+  <a href="#selected-projects"><img src="assets/projects.svg" alt="Explore selected projects" height="34"></a>
   &nbsp;
-  <a href="mailto:jmc.dev105@gmail.com?subject=Let%27s%20work%20together"><img src="assets/opportunities.svg" alt="Open to opportunities" height="34"></a>
+  <a href="#year-in-code"><img src="assets/activity.svg" alt="See my GitHub contributions" height="34"></a>
 </p>
 
-### Hola, I'm Jesús 🌷
+### Hola, I'm Jesús 🤖
 
 I'm an **Analytics Engineer at Mercado Libre**, based in Mexico City. I work where **data engineering, commercial strategy, and applied AI** meet: turning raw data into reliable models, useful insights, and tools that make work easier.
 
@@ -41,7 +41,7 @@ My background spans dimensional modeling, conversion funnels, revenue planning, 
 | **Applied AI** | LLM orchestration · autonomous agents · RAG · time-series forecasting with Prophet |
 | **Commercial strategy** | Revenue management · P&L · unit economics · conversion funnels · GMV / AOV / CAC / LTV |
 
-### Things I've made 🪴
+### Selected projects
 
 **[Deal Signals & SDR Copilot](https://github.com/Jesus105/clara_app)** · `GTM` `AI` `Python`
 
@@ -54,6 +54,18 @@ A collection of practical experiments with Spark DataFrames, missing data, filte
 **[ML & Deep Learning](https://github.com/Jesus105/ML-DL)** · `Machine learning` `Jupyter`
 
 Educational notebooks and experiments exploring machine learning and deep learning.
+
+### Year in code
+
+<a href="https://github.com/Jesus105?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesus105/Jesus105/profile-assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesus105/Jesus105/profile-assets/contributions-light.svg">
+    <img src="https://raw.githubusercontent.com/Jesus105/Jesus105/profile-assets/contributions-light.svg" alt="My GitHub contribution calendar for the past year" width="100%">
+  </picture>
+</a>
+
+<sub>A little progress, one square at a time. Click the calendar to explore my activity on GitHub.</sub>
 
 ### Next in the workshop ☁️
 

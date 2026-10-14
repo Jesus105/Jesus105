@@ -4,3 +4,6 @@
 # Local previews and operating system files.
 .preview/
 .DS_Store
+
+# The live calendars are published separately on the profile-assets branch.
+assets/contributions-*.svg

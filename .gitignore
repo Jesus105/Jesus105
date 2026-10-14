@@ -1,0 +1,6 @@
+# Personal source material stays local.
+*.pdf
+
+# Local previews and operating system files.
+.preview/
+.DS_Store

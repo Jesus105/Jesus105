@@ -24,9 +24,9 @@ My background spans dimensional modeling, conversion funnels, revenue planning, 
 
 <table>
   <tr>
-    <td align="center" width="33%"><h3>+20%</h3>Conversion increase in<br>targeted commercial categories</td>
-    <td align="center" width="33%"><h3>90%</h3>Manual reporting workflows<br>eliminated with an analytics agent</td>
-    <td align="center" width="33%"><h3>10+</h3>Commercial verticals covered<br>in conversion funnel analyses</td>
+    <td align="center" width="33%"><h3>+20%</h3>Conversion lift in<br>targeted categories</td>
+    <td align="center" width="33%"><h3>90%</h3>Manual reporting workflows<br>eliminated with AI</td>
+    <td align="center" width="33%"><h3>10+</h3>Commercial verticals<br>analyzed</td>
   </tr>
 </table>
 
